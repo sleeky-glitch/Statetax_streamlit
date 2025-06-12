@@ -125,7 +125,7 @@ Please provide a comprehensive, authoritative response that:
 6. Highlights important warnings about penalties or compliance issues
 7. Suggests next steps or additional resources if needed
 
-If the provided documents don't contain sufficient information to fully answer the question, clearly state what information is missing and recommend contacting the State Tax Department directly."""
+"""
 
         # Generate response using OpenAI
         response = openai.chat.completions.create(
