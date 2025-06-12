@@ -94,7 +94,7 @@ Your role and responsibilities:
 - Ensure all information is current and legally accurate
 
 
-        user_prompt = f"""Based on the official state tax documents and regulations provided below,if context is not provided scrape the web please answer the taxpayer's question with accuracy and authority.
+        user_prompt = f"""Based on the official state tax documents and regulations provided below,if context is not provided scrape the web please answer the taxpayer's question with accuracy and authority."""
 
 OFFICIAL TAX DOCUMENTS AND REGULATIONS:
 {context}
